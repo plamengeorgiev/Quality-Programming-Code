@@ -1,0 +1,5 @@
+C:\Users\Plamen\Desktop\High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Plamen\Desktop\High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Plamen\Desktop\High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Plamen\Desktop\High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

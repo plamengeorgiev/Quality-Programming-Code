@@ -1,0 +1,8 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnitTesting\HomeworkUnitTesting\bin\Debug\HomeworkUnitTesting.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnitTesting\HomeworkUnitTesting\bin\Debug\HomeworkUnitTesting.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnitTesting\HomeworkUnitTesting\bin\Debug\HomeworkUnitTesting.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnitTesting\HomeworkUnitTesting\obj\Debug\HomeworkUnitTesting.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnitTesting\HomeworkUnitTesting\obj\Debug\HomeworkUnitTesting.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\bin\Debug\HomeworkUnitTesting.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\obj\Debug\HomeworkUnitTesting.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\obj\Debug\HomeworkUnitTesting.pdb

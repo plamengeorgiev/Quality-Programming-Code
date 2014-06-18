@@ -1,0 +1,6 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\Minesweeper\obj\Debug\Minesweeper.pdb

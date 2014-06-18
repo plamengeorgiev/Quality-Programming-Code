@@ -1,0 +1,5 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\FirstCodeBlock\bin\Debug\FirstCodeBlock.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\FirstCodeBlock\bin\Debug\FirstCodeBlock.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\FirstCodeBlock\bin\Debug\FirstCodeBlock.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\FirstCodeBlock\obj\Debug\FirstCodeBlock.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkNamingIdentifiers\FirstCodeBlock\obj\Debug\FirstCodeBlock.pdb

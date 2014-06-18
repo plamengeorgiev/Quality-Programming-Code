@@ -1,0 +1,6 @@
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathFunctionPerformance\bin\Debug\CompareMathFunctionPerformance.exe.config
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathFunctionPerformance\bin\Debug\CompareMathFunctionPerformance.exe
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathFunctionPerformance\bin\Debug\CompareMathFunctionPerformance.pdb
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathFunctionPerformance\obj\Debug\CompareMathFunctionPerformance.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathFunctionPerformance\obj\Debug\CompareMathFunctionPerformance.exe
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathFunctionPerformance\obj\Debug\CompareMathFunctionPerformance.pdb

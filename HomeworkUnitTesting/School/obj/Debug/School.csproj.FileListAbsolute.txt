@@ -1,0 +1,6 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\obj\Debug\HomeworkUnitTesting.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\bin\Debug\HomeworkUnitTesting.dll.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\bin\Debug\HomeworkUnitTesting.dll
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\bin\Debug\HomeworkUnitTesting.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\HomeworkUnit\HomeworkUnitTesting\obj\Debug\HomeworkUnitTesting.dll

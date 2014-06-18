@@ -1,0 +1,9 @@
+C:\Users\Plamen\Desktop\CompareMathOperationPerformance\bin\Debug\CompareMathOperationPerformance.exe.config
+C:\Users\Plamen\Desktop\CompareMathOperationPerformance\obj\Debug\CompareMathOperationPerformance.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\CompareMathOperationPerformance\bin\Debug\CompareMathOperationPerformance.exe
+C:\Users\Plamen\Desktop\CompareMathOperationPerformance\bin\Debug\CompareMathOperationPerformance.pdb
+C:\Users\Plamen\Desktop\CompareMathOperationPerformance\obj\Debug\CompareMathOperationPerformance.exe
+C:\Users\Plamen\Desktop\CompareMathOperationPerformance\obj\Debug\CompareMathOperationPerformance.pdb
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathOperationPerformance\bin\Debug\CompareMathOperationPerformance.exe.config
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathOperationPerformance\obj\Debug\CompareMathOperationPerformance.exe
+C:\Users\Plamen\Desktop\Code-Tuning-and-Optimization-Homework\CompareMathOperationPerformance\obj\Debug\CompareMathOperationPerformance.pdb

@@ -1,0 +1,2 @@
+c:\users\plamen\documents\visual studio 2012\Projects\ControlFlowConditionalStatementsAndLoops\ControlFlowConditionalStatementsAndLoops\obj\Debug\Kitchen.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\ControlFlowConditionalStatementsAndLoops\ControlFlowConditionalStatementsAndLoops\bin\Debug\ControlFlowConditionalStatementsAndLoops.exe.config

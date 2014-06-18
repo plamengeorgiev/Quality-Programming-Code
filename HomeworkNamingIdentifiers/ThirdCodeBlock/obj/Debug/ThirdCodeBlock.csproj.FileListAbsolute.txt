@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNamingIdentifiers\ThirdCodeBlock\bin\ThirdCodeBlock.dll
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNamingIdentifiers\ThirdCodeBlock\bin\ThirdCodeBlock.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNamingIdentifiers\ThirdCodeBlock\obj\Debug\ThirdCodeBlock.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNamingIdentifiers\ThirdCodeBlock\obj\Debug\ThirdCodeBlock.dll
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkNamingIdentifiers\ThirdCodeBlock\obj\Debug\ThirdCodeBlock.pdb
